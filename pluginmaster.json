@@ -5,7 +5,7 @@
         "InternalName": "MainScenarioCutsceneSkipper",
         "AssemblyVersion":  "1.0.0.0",
         "Description":  "No more listening to long rants about old content, just skip them away!",
-        "ApplicableVersion":  "2023.05.18.0000.0000",
+        "ApplicableVersion":  "any",
         "RepoUrl":  "https://github.com/ChrisMellor/MainScenarioCutsceneSkipper",
         "DalamudApiLevel":  8,
         "LoadRequiredState":  0,
