@@ -1,29 +1,29 @@
 [
-    {
-        "Author": "ChrisSMellor",
-        "Name": "Main Scenario - Cutscene Skips",
-        "InternalName": "MainScenarioCutsceneSkipper",
-        "AssemblyVersion":  "1.0.0.0",
-        "Description":  "No more listening to long rants about old content, just skip them away!",
-        "ApplicableVersion":  "any",
-        "RepoUrl":  "https://github.com/ChrisMellor/MainScenarioCutsceneSkipper",
-        "DalamudApiLevel":  8,
-        "LoadRequiredState":  0,
-        "LoadSync":  false,
-        "LoadPriority":  0,
-        "ImageUrls":  [
-                          "",
-                          "",
-                          ""
-                      ],
-        "IconUrl":  "",
-        "Punchline": "Helps remove those pesky cutscenes",
-        "AcceptsFeedback":  true,
-        "IsHide":  "False",
-        "IsTestingExclusive":  "False",
-        "LastUpdate":  "0",
-        "DownloadLinkInstall":  "https://github.com/ChrisMellor/ffxiv_plugin_distribution/raw/main/plugins/MainScenarioCutsceneSkipper/latest.zip",
-        "DownloadLinkTesting":  "https://github.com/ChrisMellor/ffxiv_plugin_distribution/raw/main/plugins/MainScenarioCutsceneSkipper/latest.zip",
-        "DownloadLinkUpdate":  "https://github.com/ChrisMellor/ffxiv_plugin_distribution/raw/main/plugins/MainScenarioCutsceneSkipper/latest.zip"
-    }
+  {
+    "Author": "ChrisSMellor",
+    "Name": "Main Scenario - Cutscene Skips",
+    "InternalName": "MainScenarioCutsceneSkipper",
+    "AssemblyVersion": "1.0.0.1",
+    "Description": "No more listening to long rants about old content, just skip them away!",
+    "ApplicableVersion": "any",
+    "RepoUrl": "https://github.com/ChrisMellor/MainScenarioCutsceneSkipper",
+    "DalamudApiLevel": 8,
+    "LoadRequiredState": 0,
+    "LoadSync": false,
+    "LoadPriority": 0,
+    "ImageUrls": [
+      "",
+      "",
+      ""
+    ],
+    "IconUrl": "",
+    "Punchline": "Helps remove those pesky cutscenes",
+    "AcceptsFeedback": true,
+    "IsHide": "False",
+    "IsTestingExclusive": "False",
+    "LastUpdate": "0",
+    "DownloadLinkInstall": "https://github.com/ChrisMellor/ffxiv_plugin_distribution/raw/main/plugins/MainScenarioCutsceneSkipper/latest.zip",
+    "DownloadLinkTesting": "https://github.com/ChrisMellor/ffxiv_plugin_distribution/raw/main/plugins/MainScenarioCutsceneSkipper/latest.zip",
+    "DownloadLinkUpdate": "https://github.com/ChrisMellor/ffxiv_plugin_distribution/raw/main/plugins/MainScenarioCutsceneSkipper/latest.zip"
+  }
 ]
