@@ -22,8 +22,8 @@
         "IsHide":  "False",
         "IsTestingExclusive":  "False",
         "LastUpdate":  "0",
-        "DownloadLinkInstall":  "https://github.com/ChrisMellor/ffxiv_plugin_distribution/raw/master/plugins/MainScenarioCutsceneSkipper/latest.zip",
-        "DownloadLinkTesting":  "https://github.com/ChrisMellor/ffxiv_plugin_distribution/raw/master/plugins/MainScenarioCutsceneSkipper/latest.zip",
-        "DownloadLinkUpdate":  "https://github.com/ChrisMellor/ffxiv_plugin_distribution/raw/master/plugins/MainScenarioCutsceneSkipper/latest.zip"
+        "DownloadLinkInstall":  "https://github.com/ChrisMellor/ffxiv_plugin_distribution/raw/main/plugins/MainScenarioCutsceneSkipper/latest.zip",
+        "DownloadLinkTesting":  "https://github.com/ChrisMellor/ffxiv_plugin_distribution/raw/main/plugins/MainScenarioCutsceneSkipper/latest.zip",
+        "DownloadLinkUpdate":  "https://github.com/ChrisMellor/ffxiv_plugin_distribution/raw/main/plugins/MainScenarioCutsceneSkipper/latest.zip"
     }
 ]
