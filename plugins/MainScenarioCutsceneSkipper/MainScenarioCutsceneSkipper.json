@@ -1,0 +1,27 @@
+{
+  "Author": "ChrisSMellor",
+  "Name": "Main Scenario - Cutscene Skips",
+  "InternalName": "MainScenarioCutsceneSkipper",
+  "AssemblyVersion": "1.0.0.0",
+  "Description": "No more listening to long rants about old content, just skip them away!",
+  "ApplicableVersion": "2023.05.18.0000.0000",
+  "RepoUrl": "https://github.com/ChrisMellor/MainScenarioCutsceneSkipper",
+  "DalamudApiLevel": 8,
+  "LoadRequiredState": 0,
+  "LoadSync": false,
+  "LoadPriority": 0,
+  "ImageUrls": [
+    "",
+    "",
+    ""
+  ],
+  "IconUrl": "",
+  "Punchline": "Helps remove those pesky cutscenes",
+  "AcceptsFeedback": true,
+  "IsHide": "False",
+  "IsTestingExclusive": "False",
+  "LastUpdate": "0",
+  "DownloadLinkInstall": "https://github.com/ChrisMellor/ffxiv_plugin_distribution/raw/master/plugins/MainScenarioCutsceneSkipper/latest.zip",
+  "DownloadLinkTesting": "https://github.com/ChrisMellor/ffxiv_plugin_distribution/raw/master/plugins/MainScenarioCutsceneSkipper/latest.zip",
+  "DownloadLinkUpdate": "https://github.com/ChrisMellor/ffxiv_plugin_distribution/raw/master/plugins/MainScenarioCutsceneSkipper/latest.zip"
+}
