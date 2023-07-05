@@ -1,0 +1,31 @@
+name: Regenerate PluginMaster
+on:
+  push:
+    branches:
+      - main
+  workflow_dispatch:
+jobs:
+  generate:
+    name: Regenerate PluginMaster
+    if: github.repository == 'ChrisMellor/ffxiv_plugin_distribution'
+    runs-on: latest
+    steps:
+      - name: Extract branch name
+        shell: bash
+        run: echo "##[set-output name=branch;]$(echo ${GITHUB_REF#refs/heads/})"
+        id: extract_branch
+      - uses: actions/checkout@v2
+      - name: Run generator
+        run: .\create.ps1
+      - name: Commit files
+        continue-on-error: true
+        run: |
+          git config --local user.email "chris.mellor@hotmail.co.uk"
+          git config --local user.name "ChrisMellor"
+          git commit -m "Regenerate release json" -a
+      - name: Push changes
+        continue-on-error: true
+        uses: ad-m/github-push-action@master
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          branch: ${{ steps.extract_branch.outputs.branch }}
