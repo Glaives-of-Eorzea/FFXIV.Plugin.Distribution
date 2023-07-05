@@ -25,7 +25,7 @@ jobs:
           git commit -m "Regenerate pluginmaster.json" -a
       - name: Push changes
         continue-on-error: true
-        uses: ad-m/github-push-action@v4
+        uses: ad-m/github-push-action@master
         with:
           github_token: ${{ secrets.GITHUB_TOKEN }}
           branch: ${{ steps.extract_branch.outputs.branch }}
