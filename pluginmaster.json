@@ -1,79 +1,5 @@
 [
   {
-    "Author": "ChrisSMellor (orginal code by ascclemens)",
-    "Name": "The Glaive's Roleplayer's Toolbox",
-    "InternalName": "RoleplayersToolbox",
-    "AssemblyVersion": "1.0.0.0",
-    "Description": "A collection of useful tools for roleplayers:\n\n- Choose a PF or use the /route command to set a destination and get told the fastest way to navigate to any house.\n\n- Enable click-to-examine on left or right click.\n\n- Prevent untargeting or changing your target.\n\n- Set any emote on your hotbar, such as sleep or object sit.\n\n- Add the /emoteid command to use any emote by its ID.\n\n- Disable the /doze emote snap so you can use the sleep emote anywhere.",
-    "ApplicableVersion": "any",
-    "Tags": [
-      "roleplayers",
-      "toolbox"
-    ],
-    "DalamudApiLevel": 8,
-    "LoadRequiredState": 0,
-    "LoadSync": false,
-    "CanUnloadAsync": false,
-    "LoadPriority": 0,
-    "Punchline": "The Roleplayer's Toolbox updated by the Glaives",
-    "AcceptsFeedback": true,
-    "IsHide": "False",
-    "IsTestingExclusive": "False",
-    "LastUpdate": 0,
-    "DownloadLinkInstall": "https://github.com/ChrisMellor/ffxiv_plugin_distribution/raw/main/plugins/RoleplayersToolbox/latest.zip",
-    "DownloadLinkTesting": "https://github.com/ChrisMellor/ffxiv_plugin_distribution/raw/main/plugins/RoleplayersToolbox/latest.zip",
-    "DownloadLinkUpdate": "https://github.com/ChrisMellor/ffxiv_plugin_distribution/raw/main/plugins/RoleplayersToolbox/latest.zip"
-  },
-  {
-    "runtimeTarget": {
-      "name": ".NETCoreApp,Version=v7.0",
-      "signature": ""
-    },
-    "compilationOptions": {},
-    "targets": {
-      ".NETCoreApp,Version=v7.0": "@{RoleplayersToolbox/1.0.0.0=; Dalamud.ContextMenu/1.2.3=; DalamudPackager/2.1.11=; F23.StringSimilarity/5.1.0=; System.Memory/4.5.4=; XivCommon/7.0.2=}"
-    },
-    "libraries": {
-      "RoleplayersToolbox/1.0.0.0": "@{type=project; serviceable=False; sha512=}",
-      "Dalamud.ContextMenu/1.2.3": "@{type=package; serviceable=True; sha512=sha512-ydemplF7DNcA/LLeongDVzWUD/JV0Fw3EwA2+P0jYq3Le2ZYSt4U8qyJq4FyoChqt0lFG8BxYCAzfeWp4Jmnqw==; path=dalamud.contextmenu/1.2.3; hashPath=dalamud.contextmenu.1.2.3.nupkg.sha512}",
-      "DalamudPackager/2.1.11": "@{type=package; serviceable=True; sha512=sha512-9qlAWoRRTiL/geAvuwR/g6Bcbrd/bJJgVnB/RurBiyKs6srsP0bvpoo8IK+Eg8EA6jWeM6/YJWs66w4FIAzqPw==; path=dalamudpackager/2.1.11; hashPath=dalamudpackager.2.1.11.nupkg.sha512}",
-      "F23.StringSimilarity/5.1.0": "@{type=package; serviceable=True; sha512=sha512-RcFtnxG3Pw/wBxQFZv65Wb9VZRLyjorw4rLPW0yqPXasINT3zBKz8cBzKRlESvXve4qrRyo/XSfYfYgmKs/lkg==; path=f23.stringsimilarity/5.1.0; hashPath=f23.stringsimilarity.5.1.0.nupkg.sha512}",
-      "System.Memory/4.5.4": "@{type=package; serviceable=True; sha512=sha512-1MbJTHS1lZ4bS4FmsJjnuGJOu88ZzTT2rLvrhW7Ygic+pC0NWA+3hgAen0HRdsocuQXCkUTdFn9yHJJhsijDXw==; path=system.memory/4.5.4; hashPath=system.memory.4.5.4.nupkg.sha512}",
-      "XivCommon/7.0.2": "@{type=package; serviceable=True; sha512=sha512-raQqMKIquvM+BjDJz8QW8zOa2cajMtlwfKBlocNtkzNy/HMC7PGzkh8kN9KbUrwxc7PPvn6EjEXsAU9q9EUKJQ==; path=xivcommon/7.0.2; hashPath=xivcommon.7.0.2.nupkg.sha512}"
-    },
-    "IsHide": "False",
-    "IsTestingExclusive": "False",
-    "LastUpdate": 0,
-    "DownloadLinkInstall": "https://github.com/ChrisMellor/ffxiv_plugin_distribution/raw/main/plugins//latest.zip",
-    "DownloadLinkTesting": "https://github.com/ChrisMellor/ffxiv_plugin_distribution/raw/main/plugins//latest.zip",
-    "DownloadLinkUpdate": "https://github.com/ChrisMellor/ffxiv_plugin_distribution/raw/main/plugins//latest.zip"
-  },
-  {
-    "Author": "ChrisSMellor (orginal code by ascclemens)",
-    "Name": "The Glaive's Roleplayer's Toolbox",
-    "InternalName": "RoleplayersToolbox",
-    "AssemblyVersion": "1.0.0.0",
-    "Description": "A collection of useful tools for roleplayers:\n\n- Choose a PF or use the /route command to set a destination and get told the fastest way to navigate to any house.\n\n- Enable click-to-examine on left or right click.\n\n- Prevent untargeting or changing your target.\n\n- Set any emote on your hotbar, such as sleep or object sit.\n\n- Add the /emoteid command to use any emote by its ID.\n\n- Disable the /doze emote snap so you can use the sleep emote anywhere.",
-    "ApplicableVersion": "any",
-    "Tags": [
-      "roleplayers",
-      "toolbox"
-    ],
-    "DalamudApiLevel": 8,
-    "LoadRequiredState": 0,
-    "LoadSync": false,
-    "CanUnloadAsync": false,
-    "LoadPriority": 0,
-    "Punchline": "The Roleplayer's Toolbox updated by the Glaives",
-    "AcceptsFeedback": true,
-    "IsHide": "False",
-    "IsTestingExclusive": "False",
-    "LastUpdate": 0,
-    "DownloadLinkInstall": "https://github.com/ChrisMellor/ffxiv_plugin_distribution/raw/main/plugins/RoleplayersToolbox/latest.zip",
-    "DownloadLinkTesting": "https://github.com/ChrisMellor/ffxiv_plugin_distribution/raw/main/plugins/RoleplayersToolbox/latest.zip",
-    "DownloadLinkUpdate": "https://github.com/ChrisMellor/ffxiv_plugin_distribution/raw/main/plugins/RoleplayersToolbox/latest.zip"
-  },
-  {
     "Author": "ChrisSMellor",
     "Name": "Main Scenario - Cutscene Skips",
     "InternalName": "MainScenarioCutsceneSkipper",
@@ -93,7 +19,7 @@
     "AcceptsFeedback": true,
     "IsHide": "False",
     "IsTestingExclusive": "False",
-    "LastUpdate": "1688592816",
+    "LastUpdate": "1688592965",
     "DownloadLinkInstall": "https://github.com/ChrisMellor/ffxiv_plugin_distribution/raw/main/plugins/MainScenarioCutsceneSkipper/latest.zip",
     "DownloadLinkTesting": "https://github.com/ChrisMellor/ffxiv_plugin_distribution/raw/main/plugins/MainScenarioCutsceneSkipper/latest.zip",
     "DownloadLinkUpdate": "https://github.com/ChrisMellor/ffxiv_plugin_distribution/raw/main/plugins/MainScenarioCutsceneSkipper/latest.zip"
