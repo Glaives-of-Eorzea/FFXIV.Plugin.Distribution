@@ -3,8 +3,8 @@
     "Author": "ChrisSMellor",
     "Name": "Island Sanctuary Automation",
     "InternalName": "IslandSanctuaryAutomation",
-    "AssemblyVersion": "1.0.0.0",
-    "Description": "Automate gathering, workshop assignments, etc.",
+    "AssemblyVersion": "1.0.0.1",
+    "Description": "Automate gathering based on routes",
     "ApplicableVersion": "any",
     "Tags": [
       "island sanctuary",
@@ -18,7 +18,7 @@
     "AcceptsFeedback": true,
     "IsHide": "False",
     "IsTestingExclusive": "False",
-    "LastUpdate": "1692043997",
+    "LastUpdate": "1692044508",
     "DownloadLinkInstall": "https://github.com/ChrisMellor/ffxiv_plugin_distribution/raw/main/plugins/IslandSanctuaryAutomation/latest.zip",
     "DownloadLinkTesting": "https://github.com/ChrisMellor/ffxiv_plugin_distribution/raw/main/plugins/IslandSanctuaryAutomation/latest.zip",
     "DownloadLinkUpdate": "https://github.com/ChrisMellor/ffxiv_plugin_distribution/raw/main/plugins/IslandSanctuaryAutomation/latest.zip"
@@ -43,7 +43,7 @@
     "AcceptsFeedback": true,
     "IsHide": "False",
     "IsTestingExclusive": "False",
-    "LastUpdate": "1692043997",
+    "LastUpdate": "1692044508",
     "DownloadLinkInstall": "https://github.com/ChrisMellor/ffxiv_plugin_distribution/raw/main/plugins/MainScenarioCutsceneSkipper/latest.zip",
     "DownloadLinkTesting": "https://github.com/ChrisMellor/ffxiv_plugin_distribution/raw/main/plugins/MainScenarioCutsceneSkipper/latest.zip",
     "DownloadLinkUpdate": "https://github.com/ChrisMellor/ffxiv_plugin_distribution/raw/main/plugins/MainScenarioCutsceneSkipper/latest.zip"
@@ -68,7 +68,7 @@
     "AcceptsFeedback": true,
     "IsHide": "False",
     "IsTestingExclusive": "False",
-    "LastUpdate": "1692043997",
+    "LastUpdate": "1692044508",
     "DownloadLinkInstall": "https://github.com/ChrisMellor/ffxiv_plugin_distribution/raw/main/plugins/RoleplayersToolbox/latest.zip",
     "DownloadLinkTesting": "https://github.com/ChrisMellor/ffxiv_plugin_distribution/raw/main/plugins/RoleplayersToolbox/latest.zip",
     "DownloadLinkUpdate": "https://github.com/ChrisMellor/ffxiv_plugin_distribution/raw/main/plugins/RoleplayersToolbox/latest.zip"
