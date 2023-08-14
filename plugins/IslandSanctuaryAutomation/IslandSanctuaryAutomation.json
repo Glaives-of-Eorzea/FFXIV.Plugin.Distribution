@@ -2,7 +2,7 @@
   "Author": "ChrisSMellor",
   "Name": "Island Sanctuary Automation",
   "InternalName": "IslandSanctuaryAutomation",
-  "AssemblyVersion": "1.0.0.1",
+  "AssemblyVersion": "1.0.0.0",
   "Description": "Automate gathering based on routes",
   "ApplicableVersion": "any",
   "Tags": [
