@@ -1,9 +1,9 @@
 {
   "Author": "ChrisSMellor",
-  "Name": "Island Sanctuary Automation",
+  "Name": "Glaive's Island Sanctuary Gathering Automation",
   "InternalName": "IslandSanctuaryAutomation",
-  "AssemblyVersion": "1.0.0.0",
-  "Description": "Automate gathering based on routes",
+  "AssemblyVersion": "1.0.0.1",
+  "Description": "Automate gathering based on routes, which can be exported and imported.",
   "ApplicableVersion": "any",
   "Tags": [
     "island sanctuary",
@@ -13,6 +13,6 @@
   "LoadRequiredState": 0,
   "LoadSync": false,
   "LoadPriority": 0,
-  "Punchline": "Automate Island Sanctuary Activities",
+  "Punchline": "Automates the most boring activity to exist in the Island Sanctuary. Gathering.",
   "AcceptsFeedback": true
 }
