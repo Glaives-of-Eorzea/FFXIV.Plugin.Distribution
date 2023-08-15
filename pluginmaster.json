@@ -3,7 +3,7 @@
     "Author": "ChrisSMellor (original by awgil)",
     "Name": "Glaive's Island Sanctuary Gathering Automation",
     "InternalName": "IslandSanctuaryAutomation",
-    "AssemblyVersion": "1.0.0.3",
+    "AssemblyVersion": "1.0.0.4",
     "Description": "Automate gathering based on routes, which can be exported and imported.",
     "ApplicableVersion": "any",
     "Tags": [
@@ -18,7 +18,7 @@
     "AcceptsFeedback": true,
     "IsHide": "False",
     "IsTestingExclusive": "False",
-    "LastUpdate": "1692104823",
+    "LastUpdate": "1692105749",
     "DownloadLinkInstall": "https://github.com/ChrisMellor/ffxiv_plugin_distribution/raw/main/plugins/IslandSanctuaryAutomation/latest.zip",
     "DownloadLinkTesting": "https://github.com/ChrisMellor/ffxiv_plugin_distribution/raw/main/plugins/IslandSanctuaryAutomation/latest.zip",
     "DownloadLinkUpdate": "https://github.com/ChrisMellor/ffxiv_plugin_distribution/raw/main/plugins/IslandSanctuaryAutomation/latest.zip"
@@ -43,7 +43,7 @@
     "AcceptsFeedback": true,
     "IsHide": "False",
     "IsTestingExclusive": "False",
-    "LastUpdate": "1692104823",
+    "LastUpdate": "1692105749",
     "DownloadLinkInstall": "https://github.com/ChrisMellor/ffxiv_plugin_distribution/raw/main/plugins/MainScenarioCutsceneSkipper/latest.zip",
     "DownloadLinkTesting": "https://github.com/ChrisMellor/ffxiv_plugin_distribution/raw/main/plugins/MainScenarioCutsceneSkipper/latest.zip",
     "DownloadLinkUpdate": "https://github.com/ChrisMellor/ffxiv_plugin_distribution/raw/main/plugins/MainScenarioCutsceneSkipper/latest.zip"
@@ -68,7 +68,7 @@
     "AcceptsFeedback": true,
     "IsHide": "False",
     "IsTestingExclusive": "False",
-    "LastUpdate": "1692104823",
+    "LastUpdate": "1692105749",
     "DownloadLinkInstall": "https://github.com/ChrisMellor/ffxiv_plugin_distribution/raw/main/plugins/RoleplayersToolbox/latest.zip",
     "DownloadLinkTesting": "https://github.com/ChrisMellor/ffxiv_plugin_distribution/raw/main/plugins/RoleplayersToolbox/latest.zip",
     "DownloadLinkUpdate": "https://github.com/ChrisMellor/ffxiv_plugin_distribution/raw/main/plugins/RoleplayersToolbox/latest.zip"
