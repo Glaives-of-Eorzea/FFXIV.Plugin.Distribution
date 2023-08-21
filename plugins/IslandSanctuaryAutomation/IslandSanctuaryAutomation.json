@@ -2,7 +2,7 @@
   "Author": "ChrisSMellor (original by awgil)",
   "Name": "Glaive's Island Sanctuary Gathering Automation",
   "InternalName": "IslandSanctuaryAutomation",
-  "AssemblyVersion": "1.0.0.4",
+  "AssemblyVersion": "1.0.0.5",
   "Description": "Automate gathering based on routes, which can be exported and imported.",
   "ApplicableVersion": "any",
   "Tags": [
