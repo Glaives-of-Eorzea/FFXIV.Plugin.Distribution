@@ -1,5 +1,30 @@
 [
   {
+    "Author": "ChrisSMellor",
+    "Name": "Glaive Tweaks",
+    "InternalName": "GlaiveTweaks",
+    "AssemblyVersion": "1.0.0.0",
+    "Description": "Custom QOL tweaks to help improve the experience of the game. Please use responsibly",
+    "ApplicableVersion": "any",
+    "Tags": [
+      "skipcutscenes",
+      "tweaks"
+    ],
+    "DalamudApiLevel": 8,
+    "LoadRequiredState": 0,
+    "LoadSync": false,
+    "CanUnloadAsync": false,
+    "LoadPriority": 0,
+    "Punchline": "Tweaking the game to how you want it",
+    "AcceptsFeedback": true,
+    "IsHide": "False",
+    "IsTestingExclusive": "False",
+    "LastUpdate": "1695316701",
+    "DownloadLinkInstall": "https://github.com/ChrisMellor/ffxiv_plugin_distribution/raw/main/plugins/GlaiveTweaks/latest.zip",
+    "DownloadLinkTesting": "https://github.com/ChrisMellor/ffxiv_plugin_distribution/raw/main/plugins/GlaiveTweaks/latest.zip",
+    "DownloadLinkUpdate": "https://github.com/ChrisMellor/ffxiv_plugin_distribution/raw/main/plugins/GlaiveTweaks/latest.zip"
+  },
+  {
     "Author": "ChrisSMellor (original by awgil)",
     "Name": "Glaive's Island Sanctuary Gathering Automation",
     "InternalName": "IslandSanctuaryAutomation",
@@ -18,7 +43,7 @@
     "AcceptsFeedback": true,
     "IsHide": "False",
     "IsTestingExclusive": "False",
-    "LastUpdate": "1693583672",
+    "LastUpdate": "1695316701",
     "DownloadLinkInstall": "https://github.com/ChrisMellor/ffxiv_plugin_distribution/raw/main/plugins/IslandSanctuaryAutomation/latest.zip",
     "DownloadLinkTesting": "https://github.com/ChrisMellor/ffxiv_plugin_distribution/raw/main/plugins/IslandSanctuaryAutomation/latest.zip",
     "DownloadLinkUpdate": "https://github.com/ChrisMellor/ffxiv_plugin_distribution/raw/main/plugins/IslandSanctuaryAutomation/latest.zip"
@@ -43,7 +68,7 @@
     "AcceptsFeedback": true,
     "IsHide": "False",
     "IsTestingExclusive": "False",
-    "LastUpdate": "1693583672",
+    "LastUpdate": "1695316701",
     "DownloadLinkInstall": "https://github.com/ChrisMellor/ffxiv_plugin_distribution/raw/main/plugins/MainScenarioCutsceneSkipper/latest.zip",
     "DownloadLinkTesting": "https://github.com/ChrisMellor/ffxiv_plugin_distribution/raw/main/plugins/MainScenarioCutsceneSkipper/latest.zip",
     "DownloadLinkUpdate": "https://github.com/ChrisMellor/ffxiv_plugin_distribution/raw/main/plugins/MainScenarioCutsceneSkipper/latest.zip"
@@ -68,7 +93,7 @@
     "AcceptsFeedback": true,
     "IsHide": "False",
     "IsTestingExclusive": "False",
-    "LastUpdate": "1693583672",
+    "LastUpdate": "1695316701",
     "DownloadLinkInstall": "https://github.com/ChrisMellor/ffxiv_plugin_distribution/raw/main/plugins/RoleplayersToolbox/latest.zip",
     "DownloadLinkTesting": "https://github.com/ChrisMellor/ffxiv_plugin_distribution/raw/main/plugins/RoleplayersToolbox/latest.zip",
     "DownloadLinkUpdate": "https://github.com/ChrisMellor/ffxiv_plugin_distribution/raw/main/plugins/RoleplayersToolbox/latest.zip"
