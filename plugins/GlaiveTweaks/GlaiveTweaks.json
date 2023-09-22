@@ -2,7 +2,7 @@
   "Author": "ChrisSMellor",
   "Name": "Glaive Tweaks",
   "InternalName": "GlaiveTweaks",
-  "AssemblyVersion": "1.0.0.1",
+  "AssemblyVersion": "1.0.0.2",
   "Description": "Custom QOL tweaks to help improve the experience of the game. Please use responsibly",
   "ApplicableVersion": "any",
   "Tags": [
@@ -15,5 +15,6 @@
   "CanUnloadAsync": false,
   "LoadPriority": 0,
   "Punchline": "Tweaking the game to how you want it",
+  "Changelog": "Fixed an issue where the tweaks where not being saved in-between sessions",
   "AcceptsFeedback": true
 }
