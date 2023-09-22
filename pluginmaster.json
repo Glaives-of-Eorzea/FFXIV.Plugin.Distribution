@@ -3,7 +3,7 @@
     "Author": "ChrisSMellor",
     "Name": "Glaive Tweaks",
     "InternalName": "GlaiveTweaks",
-    "AssemblyVersion": "1.0.0.0",
+    "AssemblyVersion": "1.0.0.1",
     "Description": "Custom QOL tweaks to help improve the experience of the game. Please use responsibly",
     "ApplicableVersion": "any",
     "Tags": [
@@ -19,7 +19,7 @@
     "AcceptsFeedback": true,
     "IsHide": "False",
     "IsTestingExclusive": "False",
-    "LastUpdate": "1695317232",
+    "LastUpdate": "1695342304",
     "DownloadLinkInstall": "https://github.com/ChrisMellor/ffxiv_plugin_distribution/raw/main/plugins/GlaiveTweaks/latest.zip",
     "DownloadLinkTesting": "https://github.com/ChrisMellor/ffxiv_plugin_distribution/raw/main/plugins/GlaiveTweaks/latest.zip",
     "DownloadLinkUpdate": "https://github.com/ChrisMellor/ffxiv_plugin_distribution/raw/main/plugins/GlaiveTweaks/latest.zip"
@@ -43,7 +43,7 @@
     "AcceptsFeedback": true,
     "IsHide": "False",
     "IsTestingExclusive": "False",
-    "LastUpdate": "1695317232",
+    "LastUpdate": "1695342304",
     "DownloadLinkInstall": "https://github.com/ChrisMellor/ffxiv_plugin_distribution/raw/main/plugins/IslandSanctuaryAutomation/latest.zip",
     "DownloadLinkTesting": "https://github.com/ChrisMellor/ffxiv_plugin_distribution/raw/main/plugins/IslandSanctuaryAutomation/latest.zip",
     "DownloadLinkUpdate": "https://github.com/ChrisMellor/ffxiv_plugin_distribution/raw/main/plugins/IslandSanctuaryAutomation/latest.zip"
@@ -68,7 +68,7 @@
     "AcceptsFeedback": true,
     "IsHide": "False",
     "IsTestingExclusive": "False",
-    "LastUpdate": "1695317232",
+    "LastUpdate": "1695342304",
     "DownloadLinkInstall": "https://github.com/ChrisMellor/ffxiv_plugin_distribution/raw/main/plugins/RoleplayersToolbox/latest.zip",
     "DownloadLinkTesting": "https://github.com/ChrisMellor/ffxiv_plugin_distribution/raw/main/plugins/RoleplayersToolbox/latest.zip",
     "DownloadLinkUpdate": "https://github.com/ChrisMellor/ffxiv_plugin_distribution/raw/main/plugins/RoleplayersToolbox/latest.zip"
