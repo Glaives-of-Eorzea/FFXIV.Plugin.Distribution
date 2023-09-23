@@ -3,11 +3,10 @@
     "Author": "ChrisSMellor",
     "Name": "Glaive Tweaks",
     "InternalName": "GlaiveTweaks",
-    "AssemblyVersion": "1.0.0.2",
+    "AssemblyVersion": "1.0.0.3",
     "Description": "Custom QOL tweaks to help improve the experience of the game. Please use responsibly",
     "ApplicableVersion": "any",
     "Tags": [
-      "skipcutscenes",
       "tweaks"
     ],
     "DalamudApiLevel": 8,
@@ -16,11 +15,11 @@
     "CanUnloadAsync": false,
     "LoadPriority": 0,
     "Punchline": "Tweaking the game to how you want it",
-    "Changelog": "Fixed an issue where the tweaks where not being saved in-between sessions",
+    "Changelog": "Added a tweak to set the Grand Company Delivery Missions to default to the Expert Delivery tab",
     "AcceptsFeedback": true,
     "IsHide": "False",
     "IsTestingExclusive": "False",
-    "LastUpdate": "1695405797",
+    "LastUpdate": "1695496328",
     "DownloadLinkInstall": "https://github.com/ChrisMellor/ffxiv_plugin_distribution/raw/main/plugins/GlaiveTweaks/latest.zip",
     "DownloadLinkTesting": "https://github.com/ChrisMellor/ffxiv_plugin_distribution/raw/main/plugins/GlaiveTweaks/latest.zip",
     "DownloadLinkUpdate": "https://github.com/ChrisMellor/ffxiv_plugin_distribution/raw/main/plugins/GlaiveTweaks/latest.zip"
@@ -44,7 +43,7 @@
     "AcceptsFeedback": true,
     "IsHide": "False",
     "IsTestingExclusive": "False",
-    "LastUpdate": "1695405797",
+    "LastUpdate": "1695496328",
     "DownloadLinkInstall": "https://github.com/ChrisMellor/ffxiv_plugin_distribution/raw/main/plugins/IslandSanctuaryAutomation/latest.zip",
     "DownloadLinkTesting": "https://github.com/ChrisMellor/ffxiv_plugin_distribution/raw/main/plugins/IslandSanctuaryAutomation/latest.zip",
     "DownloadLinkUpdate": "https://github.com/ChrisMellor/ffxiv_plugin_distribution/raw/main/plugins/IslandSanctuaryAutomation/latest.zip"
