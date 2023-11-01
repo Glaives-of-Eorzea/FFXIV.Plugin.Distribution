@@ -4,7 +4,7 @@ $output = New-Object Collections.Generic.List[object]
 
 $dlTemplate = "https://github.com/ChrisMellor/ffxiv_plugin_distribution/raw/main/plugins/{0}/latest.zip"
 
-$apiLevel = 5
+$apiLevel = 9
 
 $thisPath = Get-Location
 
