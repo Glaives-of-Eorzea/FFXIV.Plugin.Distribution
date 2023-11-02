@@ -8,7 +8,7 @@ $output = New-Object Collections.Generic.List[object]
 $dlTemplate = "https://github.com/ChrisMellor/ffxiv_plugin_distribution/raw/main/plugins/{0}/latest.zip"
 
 # URL of the external repository's raw JSON file
-$externalRepoJsonUrl = "https://raw.githubusercontent.com/awgil/ffxiv_plugin_distribution/master/pluginmaster.json"
+$externalRepoJsonUrl = "https://puni.sh/api/repository/veyn"
 
 # Searching for JSON files in the 'plugins' directory, recursively
 Get-ChildItem -Path plugins -File -Recurse -Include *.json | ForEach-Object {
@@ -49,7 +49,7 @@ try {
     $externalObject = $externalContent | ConvertFrom-Json
 
     # Filtering for the block where "Name" is "Island sanctuary automation"
-    $specificObject = $externalObject | Where-Object { $_.Name -eq "Island sanctuary automation" }
+    $specificObject = $externalObject | Where-Object { $_.Name -eq "V(ery) Island" }
 
     # If the specific block is found, add it to the output list
     if ($specificObject) {
