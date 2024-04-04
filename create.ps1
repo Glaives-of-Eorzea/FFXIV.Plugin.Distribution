@@ -5,7 +5,7 @@ $ErrorActionPreference = 'SilentlyContinue'
 $output = New-Object Collections.Generic.List[object]
 
 # Defining the download template URL
-$dlTemplate = "https://github.com/ChrisMellor/ffxiv_plugin_distribution/raw/main/plugins/{0}/latest.zip"
+$dlTemplate = "https://github.com/Glaives-of-Eorzea/FFXIV.Plugin.Distribution/raw/main/plugins/{0}/latest.zip"
 
 # URL of the external repository's raw JSON file
 $externalRepoJsonUrl = "https://puni.sh/api/repository/veyn"
