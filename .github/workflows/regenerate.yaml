@@ -7,7 +7,7 @@ on:
 jobs:
   generate:
     name: Regenerate PluginMaster
-    if: github.repository == 'ChrisMellor/ffxiv_plugin_distribution'
+    if: github.repository == 'Glaives-of-Eorzea/FFXIV.Plugin.Distribution'
     runs-on: windows-latest
     steps:
       - name: Extract branch name
