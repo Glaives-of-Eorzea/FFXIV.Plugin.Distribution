@@ -19,7 +19,7 @@
     "AcceptsFeedback": true,
     "IsHide": "False",
     "IsTestingExclusive": "False",
-    "LastUpdate": "1712423718",
+    "LastUpdate": "1712424384",
     "DownloadLinkInstall": "https://github.com/Glaives-of-Eorzea/FFXIV.Plugin.Distribution/raw/main/plugins/GlaiveTweaks/latest.zip",
     "DownloadLinkTesting": "https://github.com/Glaives-of-Eorzea/FFXIV.Plugin.Distribution/raw/main/plugins/GlaiveTweaks/latest.zip",
     "DownloadLinkUpdate": "https://github.com/Glaives-of-Eorzea/FFXIV.Plugin.Distribution/raw/main/plugins/GlaiveTweaks/latest.zip"
@@ -28,7 +28,7 @@
     "Author": "your name here",
     "Name": "Sample Plugin",
     "InternalName": "SamplePlugin",
-    "AssemblyVersion": "0.0.1.4",
+    "AssemblyVersion": "0.0.1.6",
     "Description": "A description that shows up in /xlplugins. List any major slash-command(s).",
     "ApplicableVersion": "any",
     "Tags": [
@@ -45,7 +45,7 @@
     "AcceptsFeedback": true,
     "IsHide": "False",
     "IsTestingExclusive": "False",
-    "LastUpdate": "1712423718",
+    "LastUpdate": "1712424384",
     "DownloadLinkInstall": "https://github.com/Glaives-of-Eorzea/FFXIV.Plugin.Distribution/raw/main/plugins/SamplePlugin/latest.zip",
     "DownloadLinkTesting": "https://github.com/Glaives-of-Eorzea/FFXIV.Plugin.Distribution/raw/main/plugins/SamplePlugin/latest.zip",
     "DownloadLinkUpdate": "https://github.com/Glaives-of-Eorzea/FFXIV.Plugin.Distribution/raw/main/plugins/SamplePlugin/latest.zip"
@@ -58,7 +58,7 @@
     "Tags": [],
     "InternalName": "visland",
     "RepoUrl": "https://github.com/awgil/ffxiv_visland",
-    "DownloadCount": 195010,
+    "DownloadCount": 195012,
     "LastUpdate": 1711665153785,
     "DownloadLinkInstall": "https://puni.sh/api/plugins/download/28/visland/versions/latest.zip",
     "DownloadLinkUpdate": "https://puni.sh/api/plugins/download/28/visland/versions/latest.zip",
