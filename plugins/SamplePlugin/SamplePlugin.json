@@ -2,7 +2,7 @@
   "Author": "your name here",
   "Name": "Sample Plugin",
   "InternalName": "SamplePlugin",
-  "AssemblyVersion": "0.0.1.4",
+  "AssemblyVersion": "0.0.1.6",
   "Description": "A description that shows up in /xlplugins. List any major slash-command(s).",
   "ApplicableVersion": "any",
   "Tags": [
