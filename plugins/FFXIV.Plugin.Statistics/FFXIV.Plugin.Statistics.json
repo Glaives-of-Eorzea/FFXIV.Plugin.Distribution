@@ -1,0 +1,19 @@
+{
+  "Author": "Chris Mellor",
+  "Name": "Xiv Statistics Plugin",
+  "InternalName": "FFXIV.Plugin.Statistics",
+  "AssemblyVersion": "0.0.0.1",
+  "Description": "Stats? STATS? I like stats.",
+  "ApplicableVersion": "any",
+  "Tags": [
+    "stats",
+    "tracking"
+  ],
+  "DalamudApiLevel": 9,
+  "LoadRequiredState": 0,
+  "LoadSync": false,
+  "CanUnloadAsync": false,
+  "LoadPriority": 0,
+  "Punchline": "Stats? STATS? I like stats.",
+  "AcceptsFeedback": true
+}
