@@ -19,7 +19,7 @@
     "AcceptsFeedback": true,
     "IsHide": "False",
     "IsTestingExclusive": "False",
-    "LastUpdate": "1723221354",
+    "LastUpdate": "1723241060",
     "DownloadLinkInstall": "https://github.com/Glaives-of-Eorzea/FFXIV.Plugin.Distribution/raw/main/plugins/FFXIV.Plugin.Statistics/latest.zip",
     "DownloadLinkTesting": "https://github.com/Glaives-of-Eorzea/FFXIV.Plugin.Distribution/raw/main/plugins/FFXIV.Plugin.Statistics/latest.zip",
     "DownloadLinkUpdate": "https://github.com/Glaives-of-Eorzea/FFXIV.Plugin.Distribution/raw/main/plugins/FFXIV.Plugin.Statistics/latest.zip"
@@ -28,13 +28,13 @@
     "Author": "ChrisSMellor",
     "Name": "Glaive Tweaks",
     "InternalName": "GlaiveTweaks",
-    "AssemblyVersion": "1.0.0.5",
+    "AssemblyVersion": "1.0.0.7",
     "Description": "Custom QOL tweaks to help improve the experience of the game. Please use responsibly",
     "ApplicableVersion": "any",
     "Tags": [
       "tweaks"
     ],
-    "DalamudApiLevel": 9,
+    "DalamudApiLevel": 10,
     "LoadRequiredState": 0,
     "LoadSync": false,
     "CanUnloadAsync": false,
@@ -44,7 +44,7 @@
     "AcceptsFeedback": true,
     "IsHide": "False",
     "IsTestingExclusive": "False",
-    "LastUpdate": "1723221354",
+    "LastUpdate": "1723241060",
     "DownloadLinkInstall": "https://github.com/Glaives-of-Eorzea/FFXIV.Plugin.Distribution/raw/main/plugins/GlaiveTweaks/latest.zip",
     "DownloadLinkTesting": "https://github.com/Glaives-of-Eorzea/FFXIV.Plugin.Distribution/raw/main/plugins/GlaiveTweaks/latest.zip",
     "DownloadLinkUpdate": "https://github.com/Glaives-of-Eorzea/FFXIV.Plugin.Distribution/raw/main/plugins/GlaiveTweaks/latest.zip"
@@ -69,7 +69,7 @@
     "AcceptsFeedback": true,
     "IsHide": "False",
     "IsTestingExclusive": "False",
-    "LastUpdate": "1723221354",
+    "LastUpdate": "1723241060",
     "DownloadLinkInstall": "https://github.com/Glaives-of-Eorzea/FFXIV.Plugin.Distribution/raw/main/plugins/GlaiveTweaks/latest.zip",
     "DownloadLinkTesting": "https://github.com/Glaives-of-Eorzea/FFXIV.Plugin.Distribution/raw/main/plugins/GlaiveTweaks/latest.zip",
     "DownloadLinkUpdate": "https://github.com/Glaives-of-Eorzea/FFXIV.Plugin.Distribution/raw/main/plugins/GlaiveTweaks/latest.zip"
@@ -95,7 +95,7 @@
     "AcceptsFeedback": true,
     "IsHide": "False",
     "IsTestingExclusive": "False",
-    "LastUpdate": "1723221354",
+    "LastUpdate": "1723241060",
     "DownloadLinkInstall": "https://github.com/Glaives-of-Eorzea/FFXIV.Plugin.Distribution/raw/main/plugins/SamplePlugin/latest.zip",
     "DownloadLinkTesting": "https://github.com/Glaives-of-Eorzea/FFXIV.Plugin.Distribution/raw/main/plugins/SamplePlugin/latest.zip",
     "DownloadLinkUpdate": "https://github.com/Glaives-of-Eorzea/FFXIV.Plugin.Distribution/raw/main/plugins/SamplePlugin/latest.zip"
@@ -108,7 +108,7 @@
     "Tags": [],
     "InternalName": "visland",
     "RepoUrl": "https://github.com/awgil/ffxiv_visland",
-    "DownloadCount": 348537,
+    "DownloadCount": 348580,
     "LastUpdate": 1721899745003,
     "DownloadLinkInstall": "https://puni.sh/api/plugins/download/28/visland/versions/latest.zip",
     "DownloadLinkUpdate": "https://puni.sh/api/plugins/download/28/visland/versions/latest.zip",
