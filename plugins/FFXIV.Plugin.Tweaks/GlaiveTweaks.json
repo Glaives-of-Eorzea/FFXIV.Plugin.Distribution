@@ -1,0 +1,19 @@
+{
+  "Author": "ChrisSMellor",
+  "Name": "Glaive Tweaks",
+  "InternalName": "GlaiveTweaks",
+  "AssemblyVersion": "1.0.0.5",
+  "Description": "Custom QOL tweaks to help improve the experience of the game. Please use responsibly",
+  "ApplicableVersion": "any",
+  "Tags": [
+    "tweaks"
+  ],
+  "DalamudApiLevel": 9,
+  "LoadRequiredState": 0,
+  "LoadSync": false,
+  "CanUnloadAsync": false,
+  "LoadPriority": 0,
+  "Punchline": "Tweaking the game to how you want it",
+  "Changelog": "Updated for 7.0",
+  "AcceptsFeedback": true
+}
