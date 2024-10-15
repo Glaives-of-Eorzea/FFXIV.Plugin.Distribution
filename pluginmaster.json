@@ -1,30 +1,5 @@
 [
   {
-    "Author": "Chris Mellor",
-    "Name": "Xiv Statistics Plugin",
-    "InternalName": "FFXIV.Plugin.Statistics",
-    "AssemblyVersion": "0.0.0.1",
-    "Description": "Stats? STATS? I like stats.",
-    "ApplicableVersion": "any",
-    "Tags": [
-      "stats",
-      "tracking"
-    ],
-    "DalamudApiLevel": 9,
-    "LoadRequiredState": 0,
-    "LoadSync": false,
-    "CanUnloadAsync": false,
-    "LoadPriority": 0,
-    "Punchline": "Stats? STATS? I like stats.",
-    "AcceptsFeedback": true,
-    "IsHide": "False",
-    "IsTestingExclusive": "False",
-    "LastUpdate": "1724000916",
-    "DownloadLinkInstall": "https://github.com/Glaives-of-Eorzea/FFXIV.Plugin.Distribution/raw/main/plugins/FFXIV.Plugin.Statistics/latest.zip",
-    "DownloadLinkTesting": "https://github.com/Glaives-of-Eorzea/FFXIV.Plugin.Distribution/raw/main/plugins/FFXIV.Plugin.Statistics/latest.zip",
-    "DownloadLinkUpdate": "https://github.com/Glaives-of-Eorzea/FFXIV.Plugin.Distribution/raw/main/plugins/FFXIV.Plugin.Statistics/latest.zip"
-  },
-  {
     "Author": "ChrisSMellor",
     "Name": "Glaive Tweaks",
     "InternalName": "FFXIV.Plugin.Tweaks",
