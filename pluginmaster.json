@@ -19,7 +19,7 @@
     "AcceptsFeedback": true,
     "IsHide": "False",
     "IsTestingExclusive": "False",
-    "LastUpdate": "1724000916",
+    "LastUpdate": "1732315897",
     "DownloadLinkInstall": "https://github.com/Glaives-of-Eorzea/FFXIV.Plugin.Distribution/raw/main/plugins/FFXIV.Plugin.Tweaks/latest.zip",
     "DownloadLinkTesting": "https://github.com/Glaives-of-Eorzea/FFXIV.Plugin.Distribution/raw/main/plugins/FFXIV.Plugin.Tweaks/latest.zip",
     "DownloadLinkUpdate": "https://github.com/Glaives-of-Eorzea/FFXIV.Plugin.Distribution/raw/main/plugins/FFXIV.Plugin.Tweaks/latest.zip"
@@ -32,13 +32,13 @@
     "Tags": [],
     "InternalName": "visland",
     "RepoUrl": "https://github.com/awgil/ffxiv_visland",
-    "DownloadCount": 374543,
-    "LastUpdate": 1723632823249,
+    "DownloadCount": 476636,
+    "LastUpdate": 1732306573651,
     "DownloadLinkInstall": "https://puni.sh/api/plugins/download/28/visland/versions/latest.zip",
     "DownloadLinkUpdate": "https://puni.sh/api/plugins/download/28/visland/versions/latest.zip",
-    "AssemblyVersion": "0.0.0.116",
+    "AssemblyVersion": "0.0.0.127",
     "ApplicableVersion": "any",
-    "DalamudApiLevel": "10",
+    "DalamudApiLevel": "11",
     "Changelog": "",
     "IconUrl": "https://s3.puni.sh/media/plugin/28/icon-lruwx4y549.png"
   }
