@@ -5,8 +5,8 @@ $ErrorActionPreference = 'SilentlyContinue'
 $output = New-Object Collections.Generic.List[object]
 
 # Defining the download template URL
-$dlTemplate = "https://github.com/Glaives-of-Eorzea/FFXIV.Plugin.Distribution/raw/main/plugins/{0}/latest.zip"
-
+$downloadLink = "https://github.com/Glaives-of-Eorzea/FFXIV.Plugin.Distribution/raw/main/plugins/{0}/latest.zip"
+$downloadBetaLink = "https://github.com/Glaives-of-Eorzea/FFXIV.Plugin.Distribution/raw/main/plugins/test/{0}/latest.zip"
 # URL of the external repository's raw JSON file
 $externalRepoJsonUrl = "https://puni.sh/api/repository/veyn"
 
@@ -34,9 +34,10 @@ Get-ChildItem -Path plugins -File -Recurse -Include *.json | ForEach-Object {
     $content | Add-Member -Force -Name "LastUpdate" -Value $updateDate -MemberType NoteProperty
     
     # Constructing the download links
-    $link = $dlTemplate -f $internalName
+    $link = $downloadLink -f $internalName
+    $betaLink = $downloadBetaLink -f $internalName
     $content | Add-Member -Force -Name "DownloadLinkInstall" -Value $link -MemberType NoteProperty
-    $content | Add-Member -Force -Name "DownloadLinkTesting" -Value $link -MemberType NoteProperty
+    $content | Add-Member -Force -Name "DownloadLinkTesting" -Value $betaLink -MemberType NoteProperty
     $content | Add-Member -Force -Name "DownloadLinkUpdate" -Value $link -MemberType NoteProperty
     
     # Adding the modified content to the output list
