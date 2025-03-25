@@ -2,8 +2,8 @@
   {
     "Author": "ChrisSMellor",
     "Name": "Glaive Tweaks",
-    "InternalName": "FFXIV.Plugin.Tweaks",
-    "AssemblyVersion": "7.2.0.0",
+    "InternalName": "Glaives.Plugin.Tweaks",
+    "AssemblyVersion": "7.2.0.1",
     "Description": "Custom QOL tweaks to help improve the experience of the game. Please use responsibly",
     "ApplicableVersion": "any",
     "Tags": [
@@ -15,14 +15,14 @@
     "CanUnloadAsync": false,
     "LoadPriority": 0,
     "Punchline": "Tweaking the game to how you want it",
-    "Changelog": "Updated for 7.0",
+    "Changelog": "Updated for 7.2",
     "AcceptsFeedback": true,
     "IsHide": "False",
     "IsTestingExclusive": "False",
-    "LastUpdate": "1742915788",
-    "DownloadLinkInstall": "https://github.com/Glaives-of-Eorzea/FFXIV.Plugin.Distribution/raw/main/plugins/FFXIV.Plugin.Tweaks/latest.zip",
-    "DownloadLinkTesting": "https://github.com/Glaives-of-Eorzea/FFXIV.Plugin.Distribution/raw/main/plugins/FFXIV.Plugin.Tweaks/latest.zip",
-    "DownloadLinkUpdate": "https://github.com/Glaives-of-Eorzea/FFXIV.Plugin.Distribution/raw/main/plugins/FFXIV.Plugin.Tweaks/latest.zip"
+    "LastUpdate": "1742918824",
+    "DownloadLinkInstall": "https://github.com/Glaives-of-Eorzea/FFXIV.Plugin.Distribution/raw/main/plugins/Glaives.Plugin.Tweaks/latest.zip",
+    "DownloadLinkTesting": "https://github.com/Glaives-of-Eorzea/FFXIV.Plugin.Distribution/raw/main/plugins/Glaives.Plugin.Tweaks/latest.zip",
+    "DownloadLinkUpdate": "https://github.com/Glaives-of-Eorzea/FFXIV.Plugin.Distribution/raw/main/plugins/Glaives.Plugin.Tweaks/latest.zip"
   },
   {
     "Author": "veyn, croizat",
@@ -32,7 +32,7 @@
     "Tags": [],
     "InternalName": "visland",
     "RepoUrl": "https://github.com/awgil/ffxiv_visland",
-    "DownloadCount": 571645,
+    "DownloadCount": 571646,
     "LastUpdate": 1738845633382,
     "DownloadLinkInstall": "https://puni.sh/api/plugins/download/28/visland/versions/latest.zip",
     "DownloadLinkUpdate": "https://puni.sh/api/plugins/download/28/visland/versions/latest.zip",
