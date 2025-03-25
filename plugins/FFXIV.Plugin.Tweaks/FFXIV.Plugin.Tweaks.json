@@ -2,13 +2,13 @@
   "Author": "ChrisSMellor",
   "Name": "Glaive Tweaks",
   "InternalName": "FFXIV.Plugin.Tweaks",
-  "AssemblyVersion": "7.1.0.1",
+  "AssemblyVersion": "7.2.0.0",
   "Description": "Custom QOL tweaks to help improve the experience of the game. Please use responsibly",
   "ApplicableVersion": "any",
   "Tags": [
     "tweaks"
   ],
-  "DalamudApiLevel": 11,
+  "DalamudApiLevel": 12,
   "LoadRequiredState": 0,
   "LoadSync": false,
   "CanUnloadAsync": false,
