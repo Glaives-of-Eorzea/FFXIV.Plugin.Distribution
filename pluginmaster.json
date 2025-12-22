@@ -3,7 +3,7 @@
     "Author": "ChrisSMellor",
     "Name": "Glaive Tweaks",
     "InternalName": "Glaives.Plugin.Tweaks",
-    "AssemblyVersion": "7.4.0.0",
+    "AssemblyVersion": "7.4.0.1",
     "Description": "Custom QOL tweaks to help improve the experience of the game. Please use responsibly",
     "ApplicableVersion": "any",
     "Tags": [
@@ -19,7 +19,7 @@
     "AcceptsFeedback": true,
     "IsHide": "False",
     "IsTestingExclusive": "False",
-    "LastUpdate": "1766370513",
+    "LastUpdate": "1766371927",
     "DownloadLinkInstall": "https://github.com/Glaives-of-Eorzea/FFXIV.Plugin.Distribution/raw/main/plugins/Glaives.Plugin.Tweaks/latest.zip",
     "DownloadLinkTesting": "https://github.com/Glaives-of-Eorzea/FFXIV.Plugin.Distribution/raw/main/plugins/Glaives.Plugin.Tweaks/latest.zip",
     "DownloadLinkUpdate": "https://github.com/Glaives-of-Eorzea/FFXIV.Plugin.Distribution/raw/main/plugins/Glaives.Plugin.Tweaks/latest.zip"
@@ -32,7 +32,7 @@
     "Tags": [],
     "InternalName": "visland",
     "RepoUrl": "https://github.com/awgil/ffxiv_visland",
-    "DownloadCount": 680424,
+    "DownloadCount": 680521,
     "LastUpdate": 1766170057,
     "DownloadLinkInstall": "https://puni.sh/api/plugins/download/28/visland/versions/0.0.0.139/latest.zip",
     "DownloadLinkUpdate": "https://puni.sh/api/plugins/download/28/visland/versions/0.0.0.139/latest.zip",
