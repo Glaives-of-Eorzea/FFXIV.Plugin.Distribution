@@ -1,0 +1,20 @@
+{
+  "Author": "Chris",
+  "Name": "WondrousTailsSolver",
+  "InternalName": "Glaives.Plugin.WondrousTailsSolver",
+  "AssemblyVersion": "7.5.0.0",
+  "Description": "A Dalamud plugin that adds row probabilities to the Wondrous Tails display",
+  "ApplicableVersion": "any",
+  "Tags": [
+    "wonderoustails",
+    "solver"
+  ],
+  "DalamudApiLevel": 15,
+  "LoadRequiredState": 0,
+  "LoadSync": false,
+  "CanUnloadAsync": false,
+  "LoadPriority": 0,
+  "Punchline": "But what are the odds of this happening?",
+  "Changelog": "Updated for 7.5",
+  "AcceptsFeedback": true
+}
