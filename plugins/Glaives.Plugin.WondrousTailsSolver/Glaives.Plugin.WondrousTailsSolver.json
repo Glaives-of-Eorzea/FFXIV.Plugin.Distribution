@@ -1,8 +1,8 @@
 {
   "Author": "Chris",
-  "Name": "WondrousTailsSolver",
+  "Name": "Glaive's Wondrous Tails Solver",
   "InternalName": "Glaives.Plugin.WondrousTailsSolver",
-  "AssemblyVersion": "7.5.0.0",
+  "AssemblyVersion": "7.5.0.1",
   "Description": "A Dalamud plugin that adds row probabilities to the Wondrous Tails display",
   "ApplicableVersion": "any",
   "Tags": [
